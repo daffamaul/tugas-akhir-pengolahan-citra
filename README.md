@@ -1,0 +1,4 @@
+- Nama : Muhamad Daffa Maulana Arrasyid
+- NIM : 312210335
+- Mata Kuliah: Pengolahan Citra
+- Pertemuan : 16 (UAS)
